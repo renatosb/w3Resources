@@ -1,13 +1,14 @@
-package com.alura.Alura;
+package com.w3resources.exercises;
+
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AluraApplication {
+public class W3Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AluraApplication.class, args);
+		SpringApplication.run(W3Application.class, args);
 	}
 
 }
